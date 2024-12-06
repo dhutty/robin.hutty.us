@@ -38,14 +38,14 @@ languages:
     languageName: English
     weight: 1
     title: 'Me: Robin'
-  no:
+  "no": # This must be quoted because otherwise YAML treats it as equivalent to false
     languageName: Norsk
     languageCode: no
     weight: 2
     title: 'Jeg: Robin'
   fr:
     languageName: Français
-    weight: 1
+    weight: 3
     title: 'Moi: Robin'
 
 markup:
