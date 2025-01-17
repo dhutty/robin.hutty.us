@@ -1,7 +1,7 @@
 title: An example blog for Peregrine
 description: A clean, modern blog built with Jekyll and GitHub Pages
-#url: https://yourdomain.com
-baseurl: ""
+url: "https://dhutty.github.io"
+baseurl: "/robin.hutty.us"
 
 # Build settings
 theme: minima
